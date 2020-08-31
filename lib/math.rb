@@ -1,6 +1,5 @@
 def addition(num1, num2)
-addition = num1 + num2
-puts addition
+return num1 + num2
 end
 
 def subtraction(num1, num2)
@@ -23,4 +22,3 @@ def square_root(num)
 
 end
 
-addition(num1.to_i + num2.to_i)
